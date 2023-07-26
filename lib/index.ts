@@ -15,6 +15,7 @@ import { RichtextResolver } from "storyblok-js-client";
 let richTextResolver;
 
 const bridgeLatest = "https://app.storyblok.com/f/storyblok-v2-latest.js";
+// Test
 
 export const useStoryblokBridge = <
   T extends StoryblokComponentType<string> = any
